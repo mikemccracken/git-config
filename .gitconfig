@@ -34,3 +34,5 @@
 
 [push]
 	default = matching
+[github]
+	user = mikemccracken
