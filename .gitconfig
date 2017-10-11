@@ -21,6 +21,7 @@
 [core]
     whitespace=fix,-indent-with-non-tab,trailing-space,cr-at-eol
     excludesFile=~/.gitignore.d/emacs.gitignore
+
 [branch]
     autosetuprebase = always
 [alias]
@@ -35,3 +36,5 @@
 
 [push]
 	default = matching
+[github]
+	user = mikemccracken
